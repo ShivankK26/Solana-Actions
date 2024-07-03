@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Solana Actions
 
-## Getting Started
+Welcome to the Solana Actions repository! This project contains a collection of scripts and utilities for performing various actions on the Solana blockchain, such as Jupiter DEX swap, transferring SOL, staking, memo, and more.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project aims to provide a comprehensive set of tools for interacting with the Solana blockchain. Whether you are a developer looking to integrate Solana actions into your applications or a user wanting to perform various Solana transactions, this repository has you covered.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Jupiter DEX Swap:** Perform token swaps using the Jupiter decentralized exchange.
+- **Transfer SOL:** Easily transfer SOL tokens between wallets.
+- **Staking:** Stake your SOL tokens to earn rewards.
+- **Memo:** A simple on-chain memo.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Prerequisites
 
-## Learn More
+Before you begin, ensure you have met the following requirements:
 
-To learn more about Next.js, take a look at the following resources:
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- A Solana wallet with SOL tokens for transactions
+- A connection to the Solana network (devnet or mainnet)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clone the repository:
 
-## Deploy on Vercel
+   ```sh
+   git clone https://github.com/ShivankK26/Solana-Actions.git
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Install the dependencies:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```sh
+   npm install
+   ```
+
+## Resources
+
+- [Solana Actions docs](https://solana.com/docs/advanced/actions)
+- [Dialect Dashboard](https://dashboard.dialect.to/actions)
+- [Dialect Docs](https://docs.dialect.to/documentation)
+- 
