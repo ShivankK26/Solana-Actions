@@ -41,4 +41,3 @@ Before you begin, ensure you have met the following requirements:
 - [Solana Actions docs](https://solana.com/docs/advanced/actions)
 - [Dialect Dashboard](https://dashboard.dialect.to/actions)
 - [Dialect Docs](https://docs.dialect.to/documentation)
-- 
